@@ -35,7 +35,7 @@ Made from the source code of [NAZIM](t(t(tme/NAZIMCP)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
+ Add me to a group by clicking [here](http://t.me/capuibbot?startgroup=true).
 """
 
 
